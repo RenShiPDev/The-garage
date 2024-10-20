@@ -184,7 +184,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 940512b26ccda9b4fa6d5e661e385567, type: 2}
+  - {fileID: 2100000, guid: a884e19e5310ffc4d9f4b0f9669cc387, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -916,7 +916,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8ba4fd3869760c145a52521cc3239880, type: 2}
+  - {fileID: 2100000, guid: a884e19e5310ffc4d9f4b0f9669cc387, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1337,7 +1337,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8ba4fd3869760c145a52521cc3239880, type: 2}
+  - {fileID: 2100000, guid: a884e19e5310ffc4d9f4b0f9669cc387, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3493,7 +3493,6 @@ MonoBehaviour:
   _speed: 5000
   _stepTime: 0.5
   _camera: {fileID: 5606807569141250971}
-  _staminaImg: {fileID: 0}
   OnFloor: 0
   InCollision: 0
   IsEnabled: 0
